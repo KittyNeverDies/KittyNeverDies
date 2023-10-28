@@ -10,7 +10,7 @@
 
 ### About me:
 
-- I'm cool russian dude, proffesional retard and just good designer.
+- I'm cool russian person, proffesional retard and just good designer.
 - My Skills: Know C# and Python, Designer
 
 ### Right now
