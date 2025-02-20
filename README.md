@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="bannner.png" alt="kittyneverdies is a fact, they have 8 lives" height="310"/>
+<img src="banner.png" alt="kittyneverdies is a fact, they have 8 lives" height="310"/>
 
 
 
