@@ -4,7 +4,7 @@
 <div align="center">
 <img src="banner.png" alt="kittyneverdies is a fact, they have 8 lives" height="310"/>
 
-
+<img src='https://komarev.com/ghpvc/?username=kittyneverdies&style=for-the-badge&color=000008'>
 
 </div>
 
